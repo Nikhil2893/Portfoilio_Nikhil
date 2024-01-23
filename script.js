@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Data Science Enthusiast","Data Visualizer","Machine Learning Specialist", "Business Analyst", "Strategist","Urban Planner"],
+        strings: ["Data Science Professional","MLOps Professional","Machine Learning Professional", "Deep Learning Professional","Computer Vision Professional","Generative AI Professional"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Data Science Enthusiast","Data Visualizer","Machine Learning Specialist", "Business Analyst", "Strategist","Urban Planner"],
+        strings: ["Data Science Professional","MLOps Professional","Machine Learning Professional", "Deep Learning Professional","Computer Vision Professional","Generative AI Professional"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
